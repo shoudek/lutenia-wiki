@@ -1,6 +1,5 @@
-# Welcome to My Wiki
-
-This is the home page of your wiki.  
+# Lutenia Wiki
+  
 Browse topics:
 
 - [Getting Started](getting-started.md)
