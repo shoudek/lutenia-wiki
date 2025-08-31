@@ -1,5 +1,5 @@
 name: ""
-title: null
-remote_theme: pages-themes/slate@v0.2.0
+title: Lutenia Wiki
+theme: slate
 github:
   is_project_page: false
