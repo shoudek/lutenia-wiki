@@ -6,4 +6,4 @@ Browse topics:
 - [Features](features.md)
 - [FAQ](faq.md)
 
-![Alt Text](images/Lutenia_crop.png)
+![](images/Lutenia_crop.jpg)
